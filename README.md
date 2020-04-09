@@ -5,7 +5,7 @@ This repository is all about training a simple artificial neural network with th
 
 The data set can be obtained from here : https://www.kaggle.com/c/digit-recognizer/data
 In this data set, each image is represented in a 28x28 form.
-
+CAUTION: DATA SET SHOULD BE DOWNLOADED AND PASTED IN THE SAME FOLDER BEFORE DEPLOYING.
 The model has been based on the learnings from Machine Learning Course on Coursera by Andrew Ng. 
 
 fmincg() :The file fmincg.m taken from the course material of that course and I totally credit them for the file. The file contains a function fmincg() which optimises the process of obtaining weights. 
