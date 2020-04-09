@@ -21,5 +21,5 @@ The regularistion parameter can be altered in neuralNetwokDriver.m and should be
 
 Accuracy of the model : 
 The model achieves an accuracy of about 95% with the given 60000 trianing examples in train_mnist.csv and 10000 test examples in test_mnist.csv.
-The model achieves an accuracy of about 99% by combining the training and test data together(70000 examples in total) for training and testing on the test set. This idea was given here : https://www.kaggle.com/c/digit-recognizer/discussion/61480. Still I am not for combining the test data to training data.
+The model achieves an accuracy of about 99% by combining the training and test data together(70000 examples in total) for training and testing on the test set. This idea was given here : https://www.kaggle.com/c/digit-recognizer/discussion/61480.
 
